@@ -1,0 +1,12 @@
+@mixin button($color_fondo ,$color_borde ,$width ,$height){
+    
+    background-color: $color_fondo;
+    border-color: $color_borde;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: $width;
+    height: $height;
+
+}
+
+
